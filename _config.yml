@@ -2,7 +2,7 @@ title: gh.oslook.com
 description:
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
